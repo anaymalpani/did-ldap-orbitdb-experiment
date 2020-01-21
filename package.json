@@ -18,6 +18,6 @@
     "mkdirp-promise": "^5.0.1",
     "openpgp": "^3.0.10",
     "orbit-db": "^0.19.7",
-    "react-scripts": "^1.1.4"
+    "react-scripts": "^3.0.0"
   }
 }
