@@ -12,12 +12,12 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "ethereumjs-wallet": "^0.6.0",
-    "ipfs": "^0.28.2",
+    "ipfs": "^0.41.0",
     "ldapjs": "^1.0.2",
     "libsodium-wrappers": "^0.7.3",
     "mkdirp-promise": "^5.0.1",
     "openpgp": "^3.0.10",
-    "orbit-db": "^0.19.7",
+    "orbit-db": "^0.22.0",
     "react-scripts": "^1.1.4"
   }
 }
